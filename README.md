@@ -31,8 +31,8 @@ Meow:(https://scratch.mit.edu/projects/1385764267/)
 
 ## Part B · Your own project
 
-Project: PASTE-YOUR-PROJECT-LINK-HERE
+Project:(https://scratch.mit.edu/projects/1386674122)
 
 One or two sentences on what it does and which custom block, variable, loop, condition and event it uses:
 
-(write here)
+This is an interactive scratch program where clicking the sprite increases the click counter and rotates the chracter.Once the score exceeds 3,the sprite grows bigger and says 'Hello!' using a custom block
